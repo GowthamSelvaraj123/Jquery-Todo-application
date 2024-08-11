@@ -1,4 +1,4 @@
-jQuery To-Do Application
+<h1>jQuery To-Do Application</h1>
 This project is a simple to-do application developed to demonstrate and practice my jQuery skills. The entire application is built using jQuery and HTML in a single file.
 
 Features
